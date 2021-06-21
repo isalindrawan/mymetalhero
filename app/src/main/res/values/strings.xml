@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Metal Hero</string>
+    <string name="band_name_title">Band Name</string>
+    <string name="band_info">This will be filled by band info</string>
+    <string name="about">About</string>
+</resources>
